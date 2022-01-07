@@ -144,6 +144,11 @@
                  "name":"Google",
                  "properties":[
                         {
+                         "name":"openTab",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.google.com\/"
@@ -154,6 +159,22 @@
                  "width":61.3333333333333,
                  "x":1121.33333333333,
                  "y":95.3333333333333
+                }, 
+                {
+                 "height":19.296875,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72.03125,
+                 "x":1123.984375,
+                 "y":100.3515625
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -198,7 +219,7 @@
          "y":0
         }],
  "nextlayerid":41,
- "nextobjectid":20,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
