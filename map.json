@@ -109,7 +109,7 @@
                  "name":"google",
                  "properties":[
                         {
-                         "name":"url",
+                         "name":"openwebsite",
                          "type":"string",
                          "value":"https:\/\/www.google.com\/"
                         }],
@@ -143,9 +143,24 @@
                  "name":"demo",
                  "properties":[
                         {
-                         "name":"url",
+                         "name":"openTab",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.google.com\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Komm mal r\u00fcber"
                         }],
                  "rotation":0,
                  "type":"website",
