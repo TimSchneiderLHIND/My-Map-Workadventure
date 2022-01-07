@@ -139,36 +139,21 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":56,
-                 "id":21,
+                 "height":40.6666666666667,
+                 "id":23,
                  "name":"",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.google.com\/"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Hut ab"
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":52.6666666666667,
-                 "x":1175.33333333333,
-                 "y":184.666666666667
+                 "width":40.6666666666667,
+                 "x":1183.33333333333,
+                 "y":189.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -213,7 +198,7 @@
          "y":0
         }],
  "nextlayerid":41,
- "nextobjectid":22,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
