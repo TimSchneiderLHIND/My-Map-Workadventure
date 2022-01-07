@@ -141,7 +141,7 @@
                 {
                  "height":35.3333333333333,
                  "id":18,
-                 "name":"",
+                 "name":"Google",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -149,7 +149,7 @@
                          "value":"https:\/\/www.google.com\/"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":61.3333333333333,
                  "x":1121.33333333333,
@@ -198,7 +198,7 @@
          "y":0
         }],
  "nextlayerid":41,
- "nextobjectid":19,
+ "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
         {
