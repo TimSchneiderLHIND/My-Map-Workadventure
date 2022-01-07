@@ -138,7 +138,7 @@
                  "y":1.07883522727273
                 }, 
                 {
-                 "height":62,
+                 "height":96,
                  "id":15,
                  "name":"demo",
                  "properties":[
@@ -165,9 +165,9 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":136.772727272727,
+                 "width":158.772727272727,
                  "x":1024.68181818182,
-                 "y":257.5
+                 "y":223.5
                 }],
          "opacity":1,
          "type":"objectgroup",
