@@ -147,6 +147,21 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.google.com\/"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Hut ab"
                         }],
                  "rotation":0,
                  "type":"",
