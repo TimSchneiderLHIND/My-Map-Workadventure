@@ -137,7 +137,24 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":35.3333333333333,
+                 "id":18,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.google.com\/"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":61.3333333333333,
+                 "x":1121.33333333333,
+                 "y":95.3333333333333
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -181,7 +198,7 @@
          "y":0
         }],
  "nextlayerid":41,
- "nextobjectid":18,
+ "nextobjectid":19,
  "orientation":"orthogonal",
  "properties":[
         {
