@@ -103,42 +103,10 @@
          "name":"Links",
          "objects":[
                 {
-                 "height":96,
-                 "id":15,
-                 "name":"demo",
-                 "properties":[
-                        {
-                         "name":"openTab",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.google.com\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Komm mal r\u00fcber"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":158.772727272727,
-                 "x":1024.68181818182,
-                 "y":223.5
-                }, 
-                {
                  "gid":357,
                  "height":32,
                  "id":17,
-                 "name":"",
+                 "name":"Google.com",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -146,7 +114,7 @@
                          "value":"https:\/\/www.google.com\/"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":32,
                  "x":1311.5,
