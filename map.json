@@ -142,7 +142,7 @@
                  "gid":236,
                  "height":32,
                  "id":12,
-                 "name":"",
+                 "name":"google",
                  "properties":[
                         {
                          "name":"url",
@@ -150,7 +150,7 @@
                          "value":"https:\/\/www.google.com\/"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":32,
                  "x":1280.18181818182,
@@ -176,7 +176,7 @@
                 {
                  "height":30,
                  "id":15,
-                 "name":"",
+                 "name":"demo",
                  "properties":[
                         {
                          "name":"url",
@@ -184,7 +184,7 @@
                          "value":"https:\/\/www.google.com\/"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":88.7727272727273,
                  "x":1050.18181818182,
